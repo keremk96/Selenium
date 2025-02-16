@@ -75,7 +75,29 @@ Result:
 
 <img width="388" alt="Screenshot 2025-02-16 at 22 55 18" src="https://github.com/user-attachments/assets/6a137f62-d9b7-4b60-b8b8-6e2fd44a37ce" />
 
+## XPATH
 
+Xpath is dedfined as XML path.
+It is a syntax or language for finding any element on the web page using path expression.
+Xpath is used to find the location of any element on a webpage using HTML DOM structure.
+Xpath can be used to navigate through elemnets and attributes in DOM.
+Xpath is an address of the element.
 
+## Type of Xpath
 
+1) Absolute/Full Xpath
+    Ex: /html/body/ntp-app//div/div[2]/cr-searchbox//div/input
+2) Relative/Partial Xpath
+    Ex: //*[@id="input"]
+
+## Difference Between Absolute and Relative Xpath
+
+1) Absolute xpath stars from root html node
+   Relative xpath directly jump to element on DOM
+
+2)  Absolute xpath start with /
+    Relative xpath start with //
+
+3) in Absolute xpath we use only tags/nodes
+   in Relative xpath we use attributes
 
