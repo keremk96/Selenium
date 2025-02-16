@@ -107,7 +107,26 @@ Result:
 
 <img width="493" alt="Screenshot 2025-02-16 at 17 42 37" src="https://github.com/user-attachments/assets/b6721ccf-94eb-4256-b0bf-434e88d5ff7c" />
 
+## 4- CLASS_NAME Locater
 
+Targets elements based on their class attribute. This is useful for selecting multiple elements that share a class.
 
+Syntax ==> driver.find_element(By.CLASS_NAME, “className”)
+
+For exampele, we want to write Selenium in serch box.
+
+<img width="653" alt="Screenshot 2025-02-16 at 18 09 46" src="https://github.com/user-attachments/assets/0e9b79bc-2448-48b5-b193-5e1a7c56097f" />
+
+For instance, consider this page source:
+
+<img width="561" alt="Screenshot 2025-02-16 at 18 09 29" src="https://github.com/user-attachments/assets/89241219-8035-4a58-90b6-a9b19041bbd8" />
+
+We need to find CLASS_NAME location by using find_element().The form element can be located like this:
+
+<img width="439" alt="Screenshot 2025-02-16 at 18 12 25" src="https://github.com/user-attachments/assets/1028ad43-122c-40c4-9b1c-0b714e441e39" />
+
+Result:
+
+<img width="728" alt="Screenshot 2025-02-16 at 18 12 04" src="https://github.com/user-attachments/assets/894dc87a-8602-4309-a5a0-cf352e4e3725" />
 
 
