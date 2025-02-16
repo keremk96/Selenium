@@ -57,6 +57,23 @@ Result:
 
 <img width="382" alt="Screenshot 2025-02-16 at 22 44 25" src="https://github.com/user-attachments/assets/f0b73bf4-7672-4b03-8197-095a2395fd98" />
 
+## TAG and CLASS-ATTRIBUTE
+
+For example, We try to write 789 to email box.
+
+<img width="385" alt="Screenshot 2025-02-16 at 22 22 42" src="https://github.com/user-attachments/assets/f5295270-ff00-4351-b7a7-15041d371807" />
+
+For instance, consider this page source:
+
+<img width="495" alt="Screenshot 2025-02-16 at 22 23 49" src="https://github.com/user-attachments/assets/61f0a418-22e0-4c29-8561-379df6cfa5ed" />
+
+We can use two options. One is with tag and other is without tag.
+
+<img width="856" alt="Screenshot 2025-02-16 at 22 55 28" src="https://github.com/user-attachments/assets/17a4ff07-4eca-4dfc-b388-295367b852a7" />
+
+Result:
+
+<img width="388" alt="Screenshot 2025-02-16 at 22 55 18" src="https://github.com/user-attachments/assets/6a137f62-d9b7-4b60-b8b8-6e2fd44a37ce" />
 
 
 
