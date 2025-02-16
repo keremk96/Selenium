@@ -54,3 +54,33 @@ Then, we need to write standard_user by using send_keys().
 Result:
 
 <img width="370" alt="Screenshot 2025-02-16 at 17 02 10" src="https://github.com/user-attachments/assets/951a5a76-3574-4822-a454-99aa001ebdab" />
+
+## 3- LINK_TEXT Locater
+
+Specifically used to locate anchor (<a>) elements by their visible text. This is helpful for finding links.
+
+Syntax ==> driver.find_element(By.LINK_TEXT, “Visible Text”))
+
+For example, we try to click Forgotten password?.
+
+<img width="385" alt="Screenshot 2025-02-16 at 17 41 24" src="https://github.com/user-attachments/assets/484502a6-4ed7-4072-a89e-3295c91da1a7" />
+
+For instance, consider this page source:
+
+<img width="402" alt="Screenshot 2025-02-16 at 17 41 43" src="https://github.com/user-attachments/assets/2cf4f462-f27e-47f7-8515-a81d8d2206e0" />
+
+We need to find LINK_TEXT location by using find_element().The form element can be located like this:
+
+<img width="499" alt="Screenshot 2025-02-16 at 17 46 46" src="https://github.com/user-attachments/assets/524c46ef-804f-4371-94a8-d51b633db6fe" />
+
+Then, using click(), we can go website.
+
+<img width="128" alt="Screenshot 2025-02-16 at 17 47 11" src="https://github.com/user-attachments/assets/b67699d4-7f57-40e9-8f64-2b356b6a1481" />
+
+Result:
+
+<img width="493" alt="Screenshot 2025-02-16 at 17 42 37" src="https://github.com/user-attachments/assets/c5466822-e119-485c-9716-aa565616fea8" />
+
+
+
+
