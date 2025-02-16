@@ -23,7 +23,7 @@ Result:
 
 ## TAG and CLASS
 
-For example, We try to write 1234 to email box.
+For example, We try to write 12345 to email box.
 
 <img width="385" alt="Screenshot 2025-02-16 at 22 22 42" src="https://github.com/user-attachments/assets/01cca683-ef21-4a9e-8813-202c86b3e215" />
 
@@ -38,4 +38,27 @@ We can use two options. One is with tag and other is without tag.
 Result:
 
 <img width="433" alt="Screenshot 2025-02-16 at 22 32 44" src="https://github.com/user-attachments/assets/5f0d960e-5379-45d0-966e-b6dffea37ab7" />
+
+## TAG and ATTRIBUTE
+
+For example, We try to write 12345 to email box.
+
+<img width="385" alt="Screenshot 2025-02-16 at 22 22 42" src="https://github.com/user-attachments/assets/da4f2395-7bfa-4ac0-b1e8-7eaf70ca421c" />
+
+For instance, consider this page source:
+
+<img width="495" alt="Screenshot 2025-02-16 at 22 23 49" src="https://github.com/user-attachments/assets/0bae7143-87f9-4388-862d-a2c3ee2e2ed9" />
+
+We can use two options. One is with tag and other is without tag.
+
+<img width="872" alt="Screenshot 2025-02-16 at 22 46 08" src="https://github.com/user-attachments/assets/64e2b642-ecf9-49fc-bafb-c13671315787" />
+
+Result:
+
+<img width="382" alt="Screenshot 2025-02-16 at 22 44 25" src="https://github.com/user-attachments/assets/f0b73bf4-7672-4b03-8197-095a2395fd98" />
+
+
+
+
+
 
