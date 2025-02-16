@@ -81,6 +81,33 @@ Result:
 
 <img width="493" alt="Screenshot 2025-02-16 at 17 42 37" src="https://github.com/user-attachments/assets/c5466822-e119-485c-9716-aa565616fea8" />
 
+## 4- PARTIAL_LINK_TEXT Locater
+
+Similar to Link Text, but allows for partial matching of the anchor text, making it useful for long or dynamic link text.
+
+Syntax ==> driver.find_element(By.PARTIAL_LINK_TEXT, “Partial Text”);
+
+For instance, we try to click Forgotten password?.
+
+<img width="385" alt="Screenshot 2025-02-16 at 17 41 24" src="https://github.com/user-attachments/assets/5d337a65-3e09-43cf-9ff2-ead2eb28667e" />
+
+For instance, consider this page source:
+
+<img width="402" alt="Screenshot 2025-02-16 at 17 41 43" src="https://github.com/user-attachments/assets/6cce6298-36bc-43ae-9713-349d2fc34a56" />
+
+We need to find PARTIAL_LINK_TEXT location by using find_element().The form element can be located like this:
+
+<img width="546" alt="Screenshot 2025-02-16 at 17 51 12" src="https://github.com/user-attachments/assets/702614d1-59a9-4d0c-b77b-384ace1573f3" />
+
+Then, using click(), we can go website.
+
+<img width="196" alt="Screenshot 2025-02-16 at 17 56 13" src="https://github.com/user-attachments/assets/ae8f4078-c6c7-4ba0-a33b-715ef5a44f2a" />
+
+Result:
+
+<img width="493" alt="Screenshot 2025-02-16 at 17 42 37" src="https://github.com/user-attachments/assets/b6721ccf-94eb-4256-b0bf-434e88d5ff7c" />
+
+
 
 
 
