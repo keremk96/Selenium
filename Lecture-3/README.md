@@ -86,18 +86,23 @@ Xpath is an address of the element.
 ## Type of Xpath
 
 1) Absolute/Full Xpath
+   
     Ex: /html/body/ntp-app//div/div[2]/cr-searchbox//div/input
-2) Relative/Partial Xpath
+3) Relative/Partial Xpath
+   
     Ex: //*[@id="input"]
 
 ## Difference Between Absolute and Relative Xpath
 
 1) Absolute xpath stars from root html node
+   
    Relative xpath directly jump to element on DOM
 
 2)  Absolute xpath start with /
+   
     Relative xpath start with //
 
 3) in Absolute xpath we use only tags/nodes
+   
    in Relative xpath we use attributes
 
