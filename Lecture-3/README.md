@@ -114,6 +114,9 @@ Xpath is an address of the element.
 
 <img width="521" alt="Screenshot 2025-02-17 at 15 20 33" src="https://github.com/user-attachments/assets/363ea418-29f2-4b66-bc32-97910694bcc3" />
 
+## Xpath with AND - OR Operators
+
+<img width="733" alt="Screenshot 2025-02-17 at 15 34 29" src="https://github.com/user-attachments/assets/d14af816-992c-4611-84bd-ed646b5a948a" />
 
 
 
