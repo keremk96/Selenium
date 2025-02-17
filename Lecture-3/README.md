@@ -106,3 +106,28 @@ Xpath is an address of the element.
    
    in Relative xpath we use attributes
 
+## Usage of Absolute Xpath
+
+<img width="804" alt="Screenshot 2025-02-17 at 15 20 20" src="https://github.com/user-attachments/assets/e4e685a7-e91c-40db-a7f8-03924358f494" />
+
+## Usage of Relative Xpath
+
+<img width="521" alt="Screenshot 2025-02-17 at 15 20 33" src="https://github.com/user-attachments/assets/363ea418-29f2-4b66-bc32-97910694bcc3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
