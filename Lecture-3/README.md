@@ -122,6 +122,10 @@ Xpath is an address of the element.
 
 <img width="641" alt="Screenshot 2025-02-17 at 15 55 15" src="https://github.com/user-attachments/assets/69035188-c0cd-4009-88a3-41af456d393d" />
 
+## Xpath with TEXT
+
+<img width="641" alt="Screenshot 2025-02-17 at 15 55 15" src="https://github.com/user-attachments/assets/e0b1181c-5131-412e-84af-c7e255a194e0" />
+
 
 
 
