@@ -128,6 +128,9 @@ Xpath is an address of the element.
 
 ## Xpath Axes
 
+<img width="1449" alt="Screenshot 2025-02-18 at 14 39 50" src="https://github.com/user-attachments/assets/242ab6ed-a6dd-4247-b7c3-b47961e524b5" />
+
+
 <img width="1348" alt="Screenshot 2025-02-18 at 14 11 18" src="https://github.com/user-attachments/assets/d5bfbf93-7642-48f4-86e3-9182c5574b2f" />
 
 
