@@ -11,3 +11,5 @@ Lecture-2 ==> Locaters
 Lecture-3 ==> Customized Locators (CSS-XPATH)
 
 Lecture-4 ==> Commands
+
+Lecture-5 ==> Wait Commands
