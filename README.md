@@ -15,3 +15,5 @@ Lecture-4 ==> Commands
 Lecture-5 ==> Wait Commands
 
 Lecture-6 ==> Checkbox - Link - Dropdown
+
+Lecture-7 ==> Alerts/Popups
