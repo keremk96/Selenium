@@ -13,3 +13,5 @@ Lecture-3 ==> Customized Locators (CSS-XPATH)
 Lecture-4 ==> Commands
 
 Lecture-5 ==> Wait Commands
+
+Lecture-6 ==> Checkbox - Link - Dropdown
