@@ -17,3 +17,5 @@ Lecture-5 ==> Wait Commands
 Lecture-6 ==> Checkbox - Link - Dropdown
 
 Lecture-7 ==> Alerts/Popups
+
+Lecture-8 ==> WebTable
