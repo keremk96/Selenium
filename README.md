@@ -19,3 +19,5 @@ Lecture-6 ==> Checkbox - Link - Dropdown
 Lecture-7 ==> Alerts/Popups
 
 Lecture-8 ==> WebTable
+
+Lecture-9 ==> Date Picker
