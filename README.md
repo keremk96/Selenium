@@ -21,3 +21,5 @@ Lecture-7 ==> Alerts/Popups
 Lecture-8 ==> WebTable
 
 Lecture-9 ==> Date Picker
+
+Lecture-10 ==> Mouse Operations
